@@ -1,6 +1,8 @@
 
 ## Adobe- Image Classification and Artifact Detection
 
+## INPUT FOLDER NOT UPLOADED AS TOO BIG OF A FOLDER
+
 This repository contains a collection of machine learning models and associated scripts for the artifact detection task, using various architectures. The main directory contains the necessary files for running the final model, while additional models (MobileNet, ResNet50, VGG16, fine_tuned_vilt_models and ViT) are stored in separate folders for experimentation and comparison.
 
 
